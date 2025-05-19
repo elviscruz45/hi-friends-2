@@ -1,9 +1,9 @@
 ---
-title: A mountain escape
-description: Transform your wedding moments into lasting memories amidst California's majestic mountains.
+title: Una conexión inolvidable
+description: Vive la experiencia de hacer nuevos amigos y compartir momentos auténticos desde cualquier rincón del Perú.
 heroImage: ./couple-9-square.jpg
 date: "Aug 5 2024"
-location: Malibu, California
+location: Arequipa, Perú
 clients: [Hannah, Marco]
 images:
   [
@@ -15,4 +15,4 @@ images:
 order: 1
 ---
 
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+Esta experiencia en Cusco fue una muestra perfecta del poder de la conexión humana. A través de HiFriends, Lucía y Andrés compartieron intereses, formaron una amistad genuina y vivieron momentos inolvidables. La app permitió que personas reales se conocieran en un entorno seguro y amigable, creando lazos que van más allá de lo digital.

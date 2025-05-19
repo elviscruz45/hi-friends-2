@@ -1,6 +1,6 @@
 ---
-title: A high-class affair
-description: Relive the elegance of your venue and the grandeur of your wedding through artistic photography.
+title: Nuevos amigos, nuevas aventuras
+description: En Arequipa, dos jóvenes se conocieron a través de HiFriends y comenzaron a explorar la ciudad juntos.
 heroImage: ./couple-4-square.jpg
 date: "Apr 15 2024"
 location: Houston, Texas
@@ -15,4 +15,4 @@ images:
 order: 3
 ---
 
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+Sofía y Javier no se conocían, pero HiFriends los unió. Ambos buscaban conocer gente nueva en su ciudad. Gracias a la app, compartieron paseos, comidas típicas y conversaciones que los ayudaron a crecer como personas. Una amistad auténtica nació con solo un mensaje.

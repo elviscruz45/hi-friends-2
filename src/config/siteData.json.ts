@@ -16,16 +16,16 @@ export interface SiteDataProps {
 
 // Update this file with your site specific information
 const siteData: SiteDataProps = {
-	name: "Horizon Photography",
+	name: "Hi Friends",
 	// Your website's title and description (meta fields)
-	title: "Horizon - a beautiful photography website template made with Astro and Tailwind CSS",
+	title: "Hola Amigos - Conecta con nuevas personas y haz amigos en línea",
 	description:
-		"Get your next website up and running quickly with our beautiful website theme designed using Astro and Tailwind CSS. Perfect for freelancers, developers, startups, and personal use.",
+		"Haz nuevos amigos y mantente en contacto con personas que comparten tus intereses. Hola Amigos es una plataforma moderna, rápida y fácil de usar para conectar con el mundo.",
 	useViewTransitions: true,
 	// Your information!
 	author: {
-		name: "Cosmic Themes",
-		email: "creator@cosmicthemes.com",
+		name: "Elvis Cruz",
+		email: "business@pandorasti.com",
 		twitter: "Cosmic_Themes",
 	},
 

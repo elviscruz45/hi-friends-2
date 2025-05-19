@@ -1,9 +1,9 @@
 ---
-title: A beachside celebration
-description: The sandy shores, kissed by gentle waves, provided a serene backdrop for your beach wedding.
+title: Conexión entre cafés y paseos
+description: Una amistad inesperada surgida entre libros, cafés y charlas al atardecer en la ciudad de Lima.
 heroImage: ./couple-3-square.jpg
 date: "Jun 12 2024"
-location: Miami, Florida
+location: Lima, Perú
 clients: [Alex, Jeff]
 images:
   [
@@ -15,4 +15,4 @@ images:
 order: 2
 ---
 
-This Malibu wedding was a breathtaking affair. The stunning mountain views provided a picturesque backdrop. The photographs beautifully captured the intimate moments, the vibrant energy, and the overall romantic ambiance of the day.
+Gracias a HiFriends, Valeria y Diego se conocieron en Lima y descubrieron su amor por la lectura y los cafés escondidos del centro histórico. Lo que empezó como un simple chat se convirtió en una gran amistad llena de risas, buenos consejos y tardes inolvidables.

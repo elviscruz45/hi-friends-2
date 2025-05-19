@@ -1,49 +1,93 @@
 ---
-title: Privacy Policy
-description: Example privacy policy for Blogsmith! The best starter blog template for Astro.
+title: Política de Privacidad
+description: Política de privacidad y normas de conducta para la app HiFriends, una plataforma segura para conocer nuevas amistades.
 ---
 
-_Last updated on Sep 9, 2023_
+---
 
-This privacy policy sets out how Example LLC collects, processes, and uses your Personal Information through your use of our Services.
+_Última actualización: 18 de mayo de 2025_
 
-**This is purely for example. Please consult a lawyer for your own privacy policy.**
+HiFriends se compromete a proteger la privacidad de sus usuarios y a fomentar un ambiente de respeto y seguridad dentro de la aplicación. Esta política incluye tanto el tratamiento de los datos personales como las normas de conducta que todos los usuarios deben seguir.
 
-## Personal Information Collection
+## Reglas de Conducta en la App HiFriends
 
-We only collect and use Personal Information to the extent necessary to provide you with the Services. We collect Personal Information for the Website to provide you with a better online experience.
+Para garantizar una experiencia segura y agradable para todos, está estrictamente prohibido:
 
-## Personal Information Retention
+1. **Solicitar o insistir en obtener información de contacto personal** (como teléfono, dirección, redes sociales, etc.) de otros usuarios sin su consentimiento.
+2. **Asistir a encuentros bajo los efectos del alcohol o sustancias ilegales.**
+3. **Ser impuntual o faltar al respeto a la persona con la que te encuentres.**
+4. **No realizar pagos acordados o acordarlos fuera de los términos de la plataforma.**
+5. **Hacer propuestas inapropiadas o fuera del propósito de la app.**
+6. **Solicitar servicios no permitidos o de índole sexual.** En caso de hacerlo, la otra persona está en su derecho de retirarse de la cita sin reembolso.
+7. **Utilizar la app con fines diferentes a los establecidos por HiFriends: amistad, conversación y conexión respetuosa.**
 
-We keep Personal Information for the shortest time necessary to provide you with Services and to meet all our legal and compliance obligations. To determine this retention period, we take into account (i) the nature of the Personal Information gathered; and (ii) the nature of our legal and compliance obligations. All Personal Information no longer required by us is destroyed and/or erased.
+> **Importante:** HiFriends **no es un servicio de acompañantes ni de citas íntimas.** Cualquier conducta inapropiada será sancionada y reportada.
 
-## Personal Data from Third Parties
+## Consentimiento Expreso
 
-We may, from time to time, obtain Personal Information from third parties to enable us to better tailor our Services to you (Third Party Personal Information). When we obtain Third Party Personal Information, we will notify you within one month. If we use or share Third Party Personal Information, we will notify you immediately.
+Al registrarse y utilizar HiFriends, el usuario otorga su **consentimiento libre, previo, informado, expreso e inequívoco** para el tratamiento de sus datos personales conforme a esta política y en cumplimiento de la **Ley N.º 29733 – Ley de Protección de Datos Personales del Perú**.
 
-## Your Rights
+## Protección de Datos Personales
 
-With respect to Personal Information we hold, you have the following rights:
+Las imágenes, nombres y datos personales incluidos en nuestra plataforma están protegidos por la **Ley N.º 29733, Ley de Protección de Datos Personales del Perú**. Está prohibida su reproducción, difusión o uso para fines distintos a los autorizados por HiFriends. Cualquier uso indebido será denunciado ante las autoridades competentes.
 
-- Access: You may request from us access to your data that we hold on you.
-- Rectification: If the data we hold on you is inaccurate, you may request that we correct it. If the data we hold is incomplete, you may request that we complete it.
-- Erasure: Subject to certain conditions, you may request that we erase all of the data we hold on you.
-- Restrictions: Subject to certain conditions, you may request that we restrict the processing of data we hold on you.
-- Portability: Subject to certain conditions, you may request that we transfer all the data we hold on you to a third party (including yourself).
-- Objection: Subject to certain conditions, you may object to our processing of your data.
+## Recolección y Uso de Información Personal
 
-## Minors
+Recolectamos y usamos información personal estrictamente necesaria para:
 
-We do not knowingly collect information on children under the age of 16 (“Child”). If you become aware that a Child has provided us with Personal Information, please contact us. If we become aware that we have collected Personal Information from a Child without their parent's verifiable authorization to access our Services, we will take steps to remove that information from our servers.
+- Crear y mantener perfiles de usuario.
+- Facilitar interacciones dentro de la plataforma.
+- Verificar identidad y prevenir fraudes.
+- Enviar notificaciones y recordatorios relevantes.
+- Cumplir con obligaciones legales.
 
-## Third Party Links
+Esta información se conserva durante el tiempo mínimo requerido por ley o mientras sea necesaria para el cumplimiento de los fines mencionados.
 
-Our website contains links to other third-party websites not owned or managed by Example LLC. This privacy policy applies to this website only. If you click a link to a third-party website, the privacy policy of that website will apply. We highly recommend that you read the privacy policies of other websites as they may be different from ours.
+## Información de Terceros
 
-## Merger, acquisition, or asset sale
+Podemos ocasionalmente recibir datos personales de terceros para mejorar nuestro servicio. En caso de hacerlo, te informaremos dentro del primer mes y te notificaremos si usamos o compartimos dicha información.
 
-If Example LLC is involved in a merger, acquisition, or asset sale, your Personal Information may be transferred.
+## Tratamiento por Terceros y Encargados
 
-## Contact us
+HiFriends puede utilizar servicios tecnológicos de terceros (como proveedores de infraestructura, análisis o pagos) para operar la app. Estos proveedores actúan como **encargados del tratamiento** y están obligados a cumplir con las medidas de seguridad y confidencialidad establecidas por la ley.
 
-If you have any questions or suggestions about our privacy policy or want to know more information about Personal Information we hold, please contact us at support@example.com.
+## Tus Derechos
+
+Tienes derecho a:
+
+- **Acceder** a los datos que tenemos sobre ti.
+- **Solicitar correcciones** si la información es incorrecta o incompleta.
+- **Solicitar la eliminación** de tus datos personales bajo ciertas condiciones.
+- **Restringir el tratamiento** de tus datos.
+- **Solicitar la transferencia** de tus datos a terceros.
+- **Oponerte** al tratamiento de tus datos personales.
+
+Puedes ejercer estos derechos enviando un correo a **[hifriends@hifriends.com](mailto:hifriends@hifriends.com)**.
+
+## Medidas de Seguridad
+
+HiFriends implementa medidas técnicas, legales y organizativas razonables para proteger los datos personales contra accesos no autorizados, pérdida, alteración o destrucción, cumpliendo con los principios de seguridad de la Ley N.º 29733.
+
+## Menores de Edad
+
+No recolectamos intencionalmente datos de personas menores de 18 años. Si descubrimos que se han recopilado datos de un menor sin el debido consentimiento, procederemos a eliminarlos de inmediato.
+
+## Enlaces a Terceros
+
+La app puede contener enlaces a sitios de terceros. Esta política de privacidad aplica únicamente a HiFriends. Te recomendamos leer las políticas de privacidad de esos sitios antes de compartir información.
+
+## Fusión, Adquisición o Venta de Activos
+
+En caso de una fusión, adquisición o venta de activos, tu información personal podrá ser transferida a las nuevas entidades responsables, garantizando la continuidad en el cumplimiento de esta política.
+
+## Registro de Banco de Datos
+
+HiFriends podrá registrar sus bancos de datos personales ante la Autoridad Nacional de Protección de Datos Personales del Perú, conforme a lo dispuesto por el reglamento de la Ley N.º 29733.
+
+## Contacto
+
+Para consultas sobre nuestra política de privacidad o sobre tus datos personales, puedes contactarnos a: **[hifriends@hifriends.com](mailto:hifriends@hifriends.com)**.
+
+---
+
+**Gracias por ser parte de HiFriends, donde cada conversación cuenta.**
