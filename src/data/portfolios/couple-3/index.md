@@ -1,7 +1,7 @@
 ---
 title: Nuevos amigos, nuevas aventuras
 description: En Arequipa, dos jóvenes se conocieron a través de HiFriends y comenzaron a explorar la ciudad juntos.
-heroImage: ./couple-4-square.jpg
+heroImage: ./elvis20.webp
 date: "Apr 15 2024"
 location: Houston, Texas
 clients: [Julia, David]

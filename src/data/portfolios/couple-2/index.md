@@ -1,7 +1,7 @@
 ---
 title: Conexión entre cafés y paseos
 description: Una amistad inesperada surgida entre libros, cafés y charlas al atardecer en la ciudad de Lima.
-heroImage: ./couple-3-square.jpg
+heroImage: ./elvis23.jpg
 date: "Jun 12 2024"
 location: Lima, Perú
 clients: [Alex, Jeff]
