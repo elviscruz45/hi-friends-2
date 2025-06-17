@@ -1,6 +1,6 @@
 ---
-title: Política de Privacidad
-description: Política de privacidad y normas de conducta para la app HiFriends, una plataforma segura para conocer nuevas amistades.
+title: Reglas
+description: Normas de conducta para la app HiFriends, una plataforma segura para conocer nuevas amistades.
 ---
 
 ---
