@@ -18,7 +18,7 @@ export interface SiteDataProps {
 const siteData: SiteDataProps = {
 	name: "Hi Friends",
 	// Your website's title and description (meta fields)
-	title: "Hola Amigos - Conecta con nuevas personas y haz amigos en línea",
+	title: "Hi Friends - Conecta con nuevas personas y haz amigos en línea",
 	description:
 		"Haz nuevos amigos y mantente en contacto con personas que comparten tus intereses. Hola Amigos es una plataforma moderna, rápida y fácil de usar para conectar con el mundo.",
 	useViewTransitions: true,
