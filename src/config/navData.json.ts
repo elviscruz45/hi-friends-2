@@ -31,7 +31,7 @@ const navConfig: navItem[] = [
 		link: "/privacy-policy/",
 	},
 	{
-		text: "Privacy Policy",
+		text: "Política de Privacidad",
 		link: "/privacy/",
 	},
 
