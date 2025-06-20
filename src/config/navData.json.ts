@@ -21,10 +21,10 @@ const navConfig: navItem[] = [
 		text: "Contenido",
 		link: "/portfolio/",
 	},
-	{
-		text: "Aplicación Movil",
-		link: "/#pricing",
-	},
+	// {
+	// 	text: "Aplicación Movil",
+	// 	link: "/#pricing",
+	// },
 
 	{
 		text: "Reglas",
